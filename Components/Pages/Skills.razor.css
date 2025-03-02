@@ -1,0 +1,163 @@
+﻿header {
+    background-color: black;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Con;
+    overflow-x: hidden;
+    background-color: black;
+    height: 100vh;
+}
+
+#profile-div {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    background-color: black;
+    padding: 20px 0;
+}
+
+    #profile-div img {
+        width: 80%;
+        max-width: 200px;
+        height: auto;
+    }
+
+#my-name {
+    width: 100%;
+    text-align: center;
+    font-size: 22px;
+    font-family: Heavy;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+
+#work {
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    font-family: Regular;
+    letter-spacing: 2px;
+    margin-top: 5px;
+}
+
+#all-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    padding: 10px;
+    overflow: hidden;
+}
+
+#sections-div {
+    width: 90%;
+    max-width: 500px;
+    background-color: black;
+    text-align: left;
+    margin-top: 20px;
+    overflow-y: auto;
+}
+
+.toggle-header {
+    cursor: pointer;
+    color: #007bff;
+    font-size: 1.5rem;
+    text-align: left;
+    width: 100%;
+}
+
+.arrow {
+    margin-left: 10px;
+    font-size: 1.2rem;
+}
+
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+    max-height: 50vh;
+    overflow-y: auto;
+}
+
+.skills-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+    .skills-table th, .skills-table td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+        color: black !important;
+    }
+
+    .skills-table th {
+        background-color: #f4f4f4;
+        color: black !important;
+    }
+
+.even-row {
+    background-color: white;
+}
+
+.odd-row {
+    background-color: #f0f0f0;
+}
+
+#skills-table {
+    width: 100%;
+    overflow-y: auto;
+    margin: 20px 0;
+}
+
+@media (min-width: 768px) {
+    #all-content {
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    #sections-div {
+        width: 80vw;
+        max-height: 80vh;
+    }
+
+    #profile-div img {
+        max-width: 250px;
+    }
+
+    .toggle-header {
+        width: 100%;
+    }
+
+    #skills-table {
+        width: 100%;
+    }
+}
+
+@media (min-width: 1024px) {
+    #sections-div {
+        max-width: 600px;
+
+    }
+
+    .toggle-header {
+        width: 40vw;
+    }
+
+    #skills-table {
+        width: 40vw;
+    }
+    #sections-div > div {
+        width: 100%;
+    }
+}
+
+#admin-icon {
+    text-align: center;
+}

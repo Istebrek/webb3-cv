@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\IstebrekAkram-CDA24G\\source\\repos\\Istebrek-CV-Webb-FE\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Istebrek-CV-Webb-FE.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Istebrek-CV-Webb-FE.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\IstebrekAkram-CDA24G\\source\\repos\\Istebrek-CV-Webb-FE\\wwwroot\\Book.ttf",
+      "PackagePath": "staticwebassets\\Book.ttf"
+    },
+    {
+      "Id": "C:\\Users\\IstebrekAkram-CDA24G\\source\\repos\\Istebrek-CV-Webb-FE\\wwwroot\\Cond.otf",
+      "PackagePath": "staticwebassets\\Cond.otf"
+    },
+    {
+      "Id": "C:\\Users\\IstebrekAkram-CDA24G\\source\\repos\\Istebrek-CV-Webb-FE\\wwwroot\\Heavy.ttf",
+      "PackagePath": "staticwebassets\\Heavy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\IstebrekAkram-CDA24G\\source\\repos\\Istebrek-CV-Webb-FE\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\IstebrekAkram-CDA24G\\source\\repos\\Istebrek-CV-Webb-FE\\wwwroot\\bootstrap\\Pics\\profile-pic.svg",
+      "PackagePath": "staticwebassets\\bootstrap\\Pics\\profile-pic.svg"
+    },
+    {
+      "Id": "C:\\Users\\IstebrekAkram-CDA24G\\source\\repos\\Istebrek-CV-Webb-FE\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\IstebrekAkram-CDA24G\\source\\repos\\Istebrek-CV-Webb-FE\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\IstebrekAkram-CDA24G\\source\\repos\\Istebrek-CV-Webb-FE\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Istebrek-CV-Webb-FE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Istebrek-CV-Webb-FE.props",
+      "PackagePath": "build\\Istebrek-CV-Webb-FE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Istebrek-CV-Webb-FE.props",
+      "PackagePath": "buildMultiTargeting\\Istebrek-CV-Webb-FE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Istebrek-CV-Webb-FE.props",
+      "PackagePath": "buildTransitive\\Istebrek-CV-Webb-FE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

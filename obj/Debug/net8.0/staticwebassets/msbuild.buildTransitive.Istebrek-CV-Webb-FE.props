@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Istebrek-CV-Webb-FE.props" />
+</Project>

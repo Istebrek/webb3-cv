@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Istebrek-CV-Webb-FE.props" />
+</Project>
